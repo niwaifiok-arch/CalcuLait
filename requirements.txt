@@ -1,0 +1,4 @@
+﻿# minimal requirements
+numpy
+pandas
+scikit-learn
