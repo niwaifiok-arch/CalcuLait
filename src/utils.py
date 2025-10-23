@@ -11,6 +11,7 @@
     Raises:
         TypeError: If any argument is not numeric
     """
+    print(f"[Person A] Adding {len(args)} numbers")  # Person A's change
     if not args:
         return 0
     
