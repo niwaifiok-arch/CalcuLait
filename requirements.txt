@@ -1,4 +1,9 @@
-﻿# minimal requirements
+﻿# Core dependencies
 numpy
 pandas
 scikit-learn
+
+# Testing and quality assurance
+pytest>=7.4.0
+pytest-cov>=4.1.0
+flake8>=6.1.0
